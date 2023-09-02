@@ -1,0 +1,10 @@
+git checkout -b {name_branch_button} 
+
+git add *
+git commit -m "some message" 
+
+Проверяешь ветку 
+git status
+
+Копируешь название  ветки
+git push origin {branch_name}
